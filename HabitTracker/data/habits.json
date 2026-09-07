@@ -1,0 +1,27 @@
+[
+    {
+        "id": "b959f7fa-b52e-416f-b5ea-6799cffca308",
+        "name": "Running",
+        "created_at": "2026-09-04T10:24:11.897252",
+        "completed_dates": [
+            "2026-09-05",
+            "2026-09-07"
+        ]
+    },
+    {
+        "id": "26abd2ae-c6ff-42d4-84dc-991b7716b8eb",
+        "name": "Gym",
+        "created_at": "2026-09-04T10:24:26.891277",
+        "completed_dates": [
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-04"
+        ]
+    },
+    {
+        "id": "395b7d37-0fdb-4331-828f-d82bd62fe25f",
+        "name": "Drawing",
+        "created_at": "2026-09-05T19:06:52.846543",
+        "completed_dates": []
+    }
+]
